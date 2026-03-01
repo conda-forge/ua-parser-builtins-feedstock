@@ -1,5 +1,5 @@
 {% set name = "ua-parser-builtins" %}
-{% set version = "202602" %}
+{% set version = "202603" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.org/packages/py3/u/ua_parser_builtins/ua_parser_builtins-{{ version }}-py3-none-any.whl
-  sha256: 07e44db44e916076cf999cbe2ccc37f25bd689844e8748511caec23e961a04cb
+  sha256: 67478397a68fac1a98fd0a31c416ea7c65a719141fc151d0211316f2cd337cc9
 
 build:
   number: 0
